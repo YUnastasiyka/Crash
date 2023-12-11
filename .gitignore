@@ -1,0 +1,13 @@
+#Ignore files created by the nano text editor
+*~
+
+#Ignore log files and temporary files
+*.log
+*.tmp
+
+#Ignore files in the directory named "temp"
+/temp/
+
+#Ignore all files from a specific directory
+/Kyoto/
+
